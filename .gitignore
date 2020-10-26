@@ -1,9 +1,10 @@
 node_modules
 yarn.lock
+package-lock
+database.sqlite
 
 .env
 dist
 
-upload/*
-!upload/gitkepp
-
+uploads/*
+!uploads/.gitkeep
